@@ -148,7 +148,9 @@ if __name__ == "__main__":
             continue
     
         else:
-            print("Found directory!")
+            dir_list = os.listdir(dir)
+            print(f"Found directory! ({len(dir_list)} files)")
+            print(f"{dir_list}")
     
         #user can choose between manual mapping or use a predefined mapping
         exts_dirs = {} #mapping
