@@ -30,5 +30,10 @@
     "avi": "Video",
     "zip": "Archives",
     "rar": "Archives",
-    "7z": "Archives"
+    "7z": "Archives",
+    "exe": "Executables",
+    "msi": "Executables",
+    "bat": "Executables",
+    "cmd": "Executables",
+    "sh": "Executables"
 }

@@ -42,5 +42,12 @@
         "zip",
         "rar",
         "7z"
+    ],
+    "Executables": [
+        "exe",
+        "msi",
+        "bat",
+        "cmd",
+        "sh"
     ]
 }
