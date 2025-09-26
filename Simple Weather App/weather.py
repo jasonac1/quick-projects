@@ -31,7 +31,7 @@ class MainWindow(QMainWindow):
         layout = QVBoxLayout(central_widget)
 
         # BG
-        styles = "background-color: white; color black"
+        styles = "background-color: white; color: black"
         self.setStyleSheet(styles)
 
         # enter city label
