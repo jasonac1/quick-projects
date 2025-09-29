@@ -111,7 +111,6 @@ class MainWindow(QMainWindow):
 
         self.layout.addStretch()
 
-
     def initResources(self):
         self.current_qr_image = None
 
